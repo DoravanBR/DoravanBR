@@ -1,3 +1,50 @@
+# 👋 Olá, eu sou Clovis Campanha Jr
+
+🎓 Bacharel em **Engenharia Mecatônica** pela EEP - Escola de Engenharia de Piracicaba  
+🎓 Especialista em **Engenharia de Segurança do Trabalho** pela EEP - Escola de Engenharia de Piracicaba 
+🎓 Graduando em **Engenharia da Computação** pela EEP - Escola de Engenharia de Piracicaba                       
+💼 Tecnico de Inspeção Senior - Inspeção Veicular                                                                
+🌍 Piracicaba, São Paulo, Brasil  
+
+---
+
+## 🚀 Sobre mim
+Sou engenheiro mecatrônico e engenheiro de segurança do trabalho, com aproximadamente 18 anos de experiência em inspeção veicular, qualidade, conformidade técnica e análise de processos. Atualmente, direciono essa experiência para uma transição de carreira em desenvolvimento de software, automação, infraestrutura e inteligência artificial aplicada.
+Minha trajetória profissional desenvolveu competências que levo para a tecnologia: investigação e resolução de problemas, documentação técnica, segurança, responsabilidade, atenção aos detalhes e melhoria contínua.
+Sou Técnico em Desenvolvimento de Sistemas pelo Centro Paula Souza, formação de 1.200 horas concluída com conceito MB nos três módulos, abrangendo desenvolvimento web, bancos de dados, aplicações mobile, segurança da informação, testes de software e sistemas embarcados. Também sou graduando em Engenharia da Computação pela Escola de Engenharia de Piracicaba.
+
+Atualmente, desenvolvo dois projetos autorais:                                                                      
+• Um homelab para hospedagem do meu portfólio, serviços de IA, armazenamento pessoal, automação residencial, monitoramento e experimentação com infraestrutura self-hosted.                                                    
+• Um assistente pessoal de IA com arquitetura multiagente, formado por um agente orquestrador e agentes especializados para apoiar aprendizagem, pesquisa, análise de informações e desenvolvimento de projetos.
+
+Busco oportunidades de entrada ou transição em desenvolvimento de software, automação e soluções com IA, nas quais possa combinar maturidade profissional, visão de engenharia e capacidade de construir soluções para problemas reais.
+
+- 🔹 Conhecimentos em **Java, Linguagem C, Python, Arduino, WEB, N8N**  
+- 🔹 BootCamps: IBM, ITAU, RandStad, Santander, AWS, DIO
+- 🔹 Projetos: Relatório de Inspeção e emissão de certificados, automação residencial, Assistente de IA  
+
+
+---
+
+## 🛠️ Principais Competências
+- **Linguagens:** Java, Linguagem C, Python, HTML5, CSS3, JavaScript  
+- **Plataformas:** Android, Linux, Windows  
+
+---
+
+## 📊 GitHub Stats
+![Clovis's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoravanBR&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoravanBR&layout=compact&theme=radical)
+
+---
+
+## 📫 Contato
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/falvojr](https://www.linkedin.com/in/clóvis-campanha-junior-56b6ba34/))  
+
+
+
+<!--
 ## Bem-vindo(a) ao perfil do DoravanBR 😁
 
  <div>
@@ -16,6 +63,7 @@
 </div>
  
  <br>
+ -->
  <!--
   ### Pra conteúdo sobre programação me segue nas redes abaixo!
  -->
