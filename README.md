@@ -40,7 +40,7 @@ Busco oportunidades de entrada ou transição em desenvolvimento de software, au
 ---
 
 ## 📫 Contato
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/falvojr](https://www.linkedin.com/in/clóvis-campanha-junior-56b6ba34/))  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/clóvis-campanha-junior-56b6ba34/) 
 
 
 
