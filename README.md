@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Clovis Campanha Jr
 
 🎓 Bacharel em **Engenharia Mecatônica** pela EEP - Escola de Engenharia de Piracicaba  
-🎓 Especialista em **Engenharia de Segurança do Trabalho** pela EEP - Escola de Engenharia de Piracicaba 
+🎓 Especialista em **Engenharia de Segurança do Trabalho** pela EEP - Escola de Engenharia de Piracicaba            
 🎓 Graduando em **Engenharia da Computação** pela EEP - Escola de Engenharia de Piracicaba                       
 💼 Tecnico de Inspeção Senior - Inspeção Veicular                                                                
 🌍 Piracicaba, São Paulo, Brasil  
