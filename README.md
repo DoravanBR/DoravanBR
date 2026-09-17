@@ -1,80 +1,106 @@
-# 👋 Olá, eu sou Clovis Campanha Jr
+# Olá, eu sou Clóvis Campanha Junior 👋
 
-🎓 Bacharel em **Engenharia Mecatônica** pela EEP - Escola de Engenharia de Piracicaba  
-🎓 Especialista em **Engenharia de Segurança do Trabalho** pela EEP - Escola de Engenharia de Piracicaba            
-🎓 Graduando em **Engenharia da Computação** pela EEP - Escola de Engenharia de Piracicaba                       
-💼 Tecnico de Inspeção Senior - Inspeção Veicular                                                                
-🌍 Piracicaba, São Paulo, Brasil  
+### Engenharia, experiência de campo e tecnologia para resolver problemas reais
+
+Sou engenheiro mecatrônico e engenheiro de segurança do trabalho, com cerca de **18 anos de experiência em inspeção veicular, qualidade, conformidade técnica e análise de processos**.
+
+Hoje, transformo essa bagagem em soluções de **desenvolvimento de software, automação, infraestrutura e inteligência artificial aplicada**. Minha transição de carreira não começou do zero: ela conecta visão de engenharia, responsabilidade técnica e experiência operacional à construção de produtos digitais úteis, seguros e confiáveis.
+
+Sou **Técnico em Desenvolvimento de Sistemas** pelo Centro Paula Souza, formação de 1.200 horas concluída com conceito MB nos três módulos, e atualmente curso **Engenharia da Computação**.
+
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-jcdevcon.com.br-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.jcdevcon.com.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cl%C3%B3vis_Campanha_Junior-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cl%C3%B3vis-campanha-junior-56b6ba34/)
+
+## Minha trajetória
+
+```text
+Engenharia Mecatrônica
+        ↓
+18 anos em inspeção, segurança, qualidade e conformidade
+        ↓
+Técnico em Desenvolvimento de Sistemas
+        ↓
+Engenharia da Computação em andamento
+        ↓
+Software + Automação + Infraestrutura + Inteligência Artificial
+```
+
+Ao longo dessa jornada, desenvolvi competências que levo diretamente para a tecnologia:
+
+- investigação e resolução estruturada de problemas;
+- atenção a riscos, segurança e conformidade;
+- documentação técnica e rastreabilidade;
+- análise e melhoria contínua de processos;
+- responsabilidade sobre sistemas usados no mundo real;
+- comunicação com pessoas de diferentes áreas.
+
+## O que estou construindo agora
+
+- **Assistente pessoal de IA:** arquitetura multiagente com um orquestrador e agentes especializados em aprendizagem, pesquisa, análise e desenvolvimento.
+- **Homelab JCDEVCON:** infraestrutura self-hosted para portfólio, serviços de IA, nuvem pessoal, monitoramento e automação residencial.
+- **Soluções para inspeção:** aplicações voltadas a relatórios técnicos, processos de inspeção e emissão de certificados vinculados ao INMETRO.
+- **Tecnologia assistiva:** experimentos que integram eletrônica, automação e acessibilidade para adaptação e controle de cadeiras de rodas.
+
+## Projetos e registros de aprendizagem
+
+### [Projeto final — Formação IBM Bob](https://github.com/DoravanBR/projeto_final_dio_formacao_ibm_bob)
+
+Entrega final de uma formação sobre IA para desenvolvedores e líderes de tecnologia. Registra minha evolução no uso de agentes e inteligência artificial aplicada.
+
+`IA` `Agentes` `DIO`
+
+### [Caderno de árvores em C](https://github.com/DoravanBR/caderno-arvores-c-notebooklm)
+
+Material de estudo sobre estruturas de árvores em C, organizado para transformar pesquisa e prática em conhecimento reutilizável.
+
+`C` `Estruturas de dados` `Aprendizagem`
+
+### [Exercícios de HTML e CSS](https://github.com/DoravanBR/Exercicios-HTML-CSS-Basico)
+
+Registro público da construção da minha base em desenvolvimento de interfaces web.
+
+`HTML` `CSS` `Fundamentos web`
+
+### [Listagem Pokémon](https://github.com/DoravanBR/projeto-listagem-pokemon)
+
+Projeto de interface criado para praticar organização visual, componentes de listagem e desenvolvimento web.
+
+`HTML` `CSS` `JavaScript`
+
+> Os projetos autorais maiores continuam em desenvolvimento. Quero publicá-los como estudos de caso completos, apresentando o problema, as decisões técnicas, os aprendizados e o impacto — não apenas o código final.
+
+## Tecnologias em evolução contínua
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+## Formação e aprimoramento
+
+- Engenharia da Computação — graduação em andamento;
+- Técnico em Desenvolvimento de Sistemas — Centro Paula Souza, 1.200 horas;
+- Engenharia Mecatrônica — graduação concluída;
+- Engenharia de Segurança do Trabalho — especialização concluída;
+- estudos práticos em IA, agentes, automação com n8n, cibersegurança, desenvolvimento web, Java, Python, C e sistemas embarcados;
+- participação em formações e bootcamps da DIO com parceiros como IBM, Santander, AWS, Itaú e Randstad.
+
+## Próximo passo
+
+Busco oportunidades de entrada ou transição em **desenvolvimento de software, automação e soluções com IA**, nas quais eu possa combinar maturidade profissional, visão sistêmica e vontade de aprender para construir soluções que funcionem no mundo real.
+
+📍 Piracicaba, São Paulo, Brasil  
+🌐 [jcdevcon.com.br](https://www.jcdevcon.com.br/)  
+💼 [LinkedIn](https://www.linkedin.com/in/cl%C3%B3vis-campanha-junior-56b6ba34/)  
+✉️ [contato@jcdevcon.com.br](mailto:contato@jcdevcon.com.br)
 
 ---
 
-## 🚀 Sobre mim
-Sou engenheiro mecatrônico e engenheiro de segurança do trabalho, com aproximadamente 18 anos de experiência em inspeção veicular, qualidade, conformidade técnica e análise de processos. Atualmente, direciono essa experiência para uma transição de carreira em desenvolvimento de software, automação, infraestrutura e inteligência artificial aplicada.
-Minha trajetória profissional desenvolveu competências que levo para a tecnologia: investigação e resolução de problemas, documentação técnica, segurança, responsabilidade, atenção aos detalhes e melhoria contínua.
-Sou Técnico em Desenvolvimento de Sistemas pelo Centro Paula Souza, formação de 1.200 horas concluída com conceito MB nos três módulos, abrangendo desenvolvimento web, bancos de dados, aplicações mobile, segurança da informação, testes de software e sistemas embarcados. Também sou graduando em Engenharia da Computação pela Escola de Engenharia de Piracicaba.
+> Tecnologia ganha valor quando entende o processo, o ambiente e as pessoas envolvidas.
 
-Atualmente, desenvolvo dois projetos autorais:                                                                      
-• Um homelab para hospedagem do meu portfólio, serviços de IA, armazenamento pessoal, automação residencial, monitoramento e experimentação com infraestrutura self-hosted.                                                    
-• Um assistente pessoal de IA com arquitetura multiagente, formado por um agente orquestrador e agentes especializados para apoiar aprendizagem, pesquisa, análise de informações e desenvolvimento de projetos.
-
-Busco oportunidades de entrada ou transição em desenvolvimento de software, automação e soluções com IA, nas quais possa combinar maturidade profissional, visão de engenharia e capacidade de construir soluções para problemas reais.
-
-- 🔹 Conhecimentos em **Java, Linguagem C, Python, Arduino, WEB, N8N**  
-- 🔹 BootCamps: IBM, ITAU, RandStad, Santander, AWS, DIO
-- 🔹 Projetos: Relatório de Inspeção e emissão de certificados, automação residencial, Assistente de IA  
-
-
----
-
-## 🛠️ Principais Competências
-- **Linguagens:** Java, Linguagem C, Python, HTML5, CSS3, JavaScript  
-- **Plataformas:** Android, Linux, Windows  
-
----
-
-## 📊 GitHub Stats
-![Clovis's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoravanBR&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoravanBR&layout=compact&theme=radical)
-
----
-
-## 📫 Contato
-- 🔗 [LinkedIn](https://www.linkedin.com/in/clóvis-campanha-junior-56b6ba34/)
-- https://www.jcdevcon.com.br/contato
-
-
-
-<!--
-## Bem-vindo(a) ao perfil do DoravanBR 😁
-
- <div>
-   <a href="https://github.com/DoravanBR">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DoravanBR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoravanBR&layout=compact&langs_count=6&theme=tokyonight"/>
-
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-                        
-</div>
- 
- <br>
- -->
- <!--
-  ### Pra conteúdo sobre programação me segue nas redes abaixo!
- -->
- <!--
-<div> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:juninho_camp@hotmail.com"><img src="https://img.shields.io/badge/-EMAIL-%23333?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/clóvis-campanha-junior-56b6ba34/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  ![Snake animation](https://github.com/DoravanBR/DoravanBR/blob/output/github-contribution-grid-snake.svg)
-</div>
--->
