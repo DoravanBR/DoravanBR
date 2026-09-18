@@ -43,6 +43,12 @@ Ao longo dessa jornada, desenvolvi competências que levo diretamente para a tec
 
 ## Projetos e registros de aprendizagem
 
+### [IA para aprender melhor](https://github.com/DoravanBR/ia-para-aprender-melhor)
+
+Método prático para usar a inteligência artificial como mentora de estudos, sem substituir o raciocínio do estudante. O projeto reúne seleção de fontes confiáveis, prompts guiados, exercícios, feedback, revisão e um fluxo de estudo com NotebookLM.
+
+`IA` `Educação` `NotebookLM` `Aprendizagem ativa`
+
 ### [Projeto final — Formação IBM Bob](https://github.com/DoravanBR/projeto_final_dio_formacao_ibm_bob)
 
 Entrega final de uma formação sobre IA para desenvolvedores e líderes de tecnologia. Registra minha evolução no uso de agentes e inteligência artificial aplicada.
