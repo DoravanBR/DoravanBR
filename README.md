@@ -49,29 +49,29 @@ Método prático para usar a inteligência artificial como mentora de estudos, s
 
 `IA` `Educação` `NotebookLM` `Aprendizagem ativa`
 
-### [Projeto final — Formação IBM Bob](https://github.com/DoravanBR/projeto_final_dio_formacao_ibm_bob)
+### [Central de Atendimento e Priorização](https://github.com/DoravanBR/central-atendimento-estruturas-dados-c)
 
-Entrega final de uma formação sobre IA para desenvolvedores e líderes de tecnologia. Registra minha evolução no uso de agentes e inteligência artificial aplicada.
+Projeto acadêmico em C11 que integra fila, pilha, árvore de decisão, BST, AVL e heap em um sistema de atendimento. A solução possui módulos com responsabilidades separadas, integração transacional com rollback, testes automatizados e comparação experimental entre BST e AVL.
 
-`IA` `Agentes` `DIO`
+`C11` `Estruturas de dados` `Testes` `Arquitetura`
+
+### [Automação de contatos com n8n](https://github.com/DoravanBR/n8n-formulario-contato-telegram)
+
+Workflow que recebe mensagens do formulário do portfólio, evita contatos duplicados no Google Sheets, mantém o histórico de mensagens e envia notificações por Gmail e Telegram.
+
+`n8n` `Automação` `Webhooks` `APIs`
+
+### [DIO Explorer — Formação IBM Bob](https://github.com/DoravanBR/projeto_final_dio_formacao_ibm_bob)
+
+Servidor MCP que transforma trilhas, desafios e certificados da DIO em ferramentas para agentes de IA. O projeto combina Python, TypeScript, dados estruturados, testes automatizados e uma interface web executável localmente.
+
+`MCP` `Python` `TypeScript` `IA`
 
 ### [Caderno de árvores em C](https://github.com/DoravanBR/caderno-arvores-c-notebooklm)
 
-Material de estudo sobre estruturas de árvores em C, organizado para transformar pesquisa e prática em conhecimento reutilizável.
+Material de estudo sobre BST, AVL e Árvore B, construído com curadoria de fontes abertas e NotebookLM para transformar pesquisa, prática e revisão em conhecimento reutilizável.
 
-`C` `Estruturas de dados` `Aprendizagem`
-
-### [Exercícios de HTML e CSS](https://github.com/DoravanBR/Exercicios-HTML-CSS-Basico)
-
-Registro público da construção da minha base em desenvolvimento de interfaces web.
-
-`HTML` `CSS` `Fundamentos web`
-
-### [Listagem Pokémon](https://github.com/DoravanBR/projeto-listagem-pokemon)
-
-Projeto de interface criado para praticar organização visual, componentes de listagem e desenvolvimento web.
-
-`HTML` `CSS` `JavaScript`
+`C` `Estruturas de dados` `NotebookLM` `Aprendizagem`
 
 > Os projetos autorais maiores continuam em desenvolvimento. Quero publicá-los como estudos de caso completos, apresentando o problema, as decisões técnicas, os aprendizados e o impacto — não apenas o código final.
 
